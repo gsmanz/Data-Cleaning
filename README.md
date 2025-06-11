@@ -1,6 +1,4 @@
-# Máster en Data Science & IA - Nuclio Digital School
-
-# Entregable 1: Limpieza y Preprocesamiento de Datos (Dataset BMW)
+# Limpieza y Preprocesamiento de Datos (Dataset BMW)
 
 ## 1. Descripcion
 
